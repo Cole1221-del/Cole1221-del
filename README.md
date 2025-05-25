@@ -14,3 +14,15 @@ Christopher Coleman
 ccoleman199533@gmail.com\
 This is my Wake Tech account
 My repository explains me in summary 
+# About me
+## My hobbies
+*I love cooking steak
+
+*Ive been playing piano for 15 years
+
+*My favorite origami is elephants
+
+## Websites i recommend
+*[beesbeesbeesbees] (https://www.beesbeesbeesbees.com/)
+
+*[staggeringbeauty] (http://www.staggeringbeauty.com/)
